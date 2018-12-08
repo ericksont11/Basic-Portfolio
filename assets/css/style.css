@@ -183,20 +183,6 @@ input[type=submit] {
     height: 50px;
 }
 
-.container {
-    position: relative;
-}
-
-.test {
-    position: absolute;
-    width:30px;
-    height: 20px;
-    bottom: 50%;
-    right: 50%;
-    background-color:green;
-    color: white;
-}
-
 .kels {
     position: relative;
     float: left;
