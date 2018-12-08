@@ -200,9 +200,3 @@ img:hover {
     opacity: 0.25;
 }
 
-@media screen and (max-width: 800px) {
-    body {
-        background-color: red;
-        background-image: none;
-    }
-}
